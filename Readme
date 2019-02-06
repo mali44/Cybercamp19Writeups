@@ -8,3 +8,11 @@ Reverse soruları için çözümler ;
 Genel olarak reverse yapmak için temel metodolojiyi anlatmaya yöneliktir :) 
 
 Elimden geldiğince  Tool-kullanımı ve debug yöntemleri üzerinde durmaya çalıştım. 
+
+#Kullanılan araçlar:
+  PE:
+    Ollydbg:      
+    x64dbg:
+    
+  ELF:
+    GDB-PEDA
